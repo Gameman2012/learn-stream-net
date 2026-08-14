@@ -3,13 +3,13 @@
   "questions": [
     {
       "title": "سؤال 1",
-      "q": "/test/q1.svg",
-      "a": "/test/a1.svg"
+      "q": "https://raw.githubusercontent.com/Gameman2012/learn-stream-net/main/assets/q1.svg",
+      "a": "https://raw.githubusercontent.com/Gameman2012/learn-stream-net/main/assets/a1.svg"
     },
     {
       "title": "سؤال 2",
-      "q": "/test/q2.svg",
-      "a": "/test/a2.svg"
+      "q": "https://raw.githubusercontent.com/Gameman2012/learn-stream-net/main/assets/q2.svg",
+      "a": "https://raw.githubusercontent.com/Gameman2012/learn-stream-net/main/assets/a2.svg"
     }
   ]
 }
